@@ -8,7 +8,7 @@
 [![youtube](https://img.shields.io/badge/video-YouTube-red)](https://www.youtube.com/@WardenHello)
 
 [![modern cpp](https://img.shields.io/badge/code-Modern%20C++-blue)](https://learn.microsoft.com/zh-cn/cpp/cpp/welcome-back-to-cpp-modern-cpp) 
-[![open jdk](https://img.shields.io/badge/讨厌-学习-yellow)](https://learn.microsoft.com/zh-cn/java/openjdk/download)
+[![open jdk](https://img.shields.io/badge/open-jdk-white)](https://learn.microsoft.com/zh-cn/java/openjdk/download)
 ![](https://img.shields.io/badge/爱好-二次元-red)
 
 </div>
