@@ -15,13 +15,13 @@
 ### - Languages and Tools...
 <p align="center">
   <!-- For more icons please follow  https://github.com/MikeCodesDotNET/ColoredBadges -->
-  <img src="https://github.com/HelloWarden666/HelloWarden666/tree/main/svg/html.svg" alt="html" style="vertical-align:top; margin:4px">
-  <img src="https://github.com/HelloWarden666/HelloWarden666/tree/main/svg/js.svg" alt="js" style="vertical-align:top; margin:4px">
-  <img src="https://github.com/HelloWarden666/HelloWarden666/tree/main/svg/bash.svg" alt="bash" style="vertical-align:top; margin:4px">
-  <img src="https://github.com/HelloWarden666/HelloWarden666/tree/main/svg/vue.svg" alt="vue" style="vertical-align:top; margin:4px">
-  <img src="https://github.com/HelloWarden666/HelloWarden666/tree/main/svg/chrome.svg" alt="chrome" style="vertical-align:top; margin:4px">
-  <img src="https://github.com/HelloWarden666/HelloWarden666/tree/main/svg/npm.svg" alt="npm" style="vertical-align:top; margin:4px">
-  <img src="https://github.com/HelloWarden666/HelloWarden666/tree/main/svg/visualstudio_code.svg" alt="vscode" style="vertical-align:top; margin:4px">
+  <img src="https://raw.githubusercontent.com/HelloWarden666/HelloWarden666/tree/main/svg/html.svg" alt="html" style="vertical-align:top; margin:4px">
+  <img src="https://raw.githubusercontent.com/HelloWarden666/HelloWarden666/tree/main/svg/js.svg" alt="js" style="vertical-align:top; margin:4px">
+  <img src="https://raw.githubusercontent.com/HelloWarden666/HelloWarden666/tree/main/svg/bash.svg" alt="bash" style="vertical-align:top; margin:4px">
+  <img src="https://raw.githubusercontent.com/HelloWarden666/HelloWarden666/tree/main/svg/vue.svg" alt="vue" style="vertical-align:top; margin:4px">
+  <img src="https://raw.githubusercontent.com/HelloWarden666/HelloWarden666/tree/main/svg/chrome.svg" alt="chrome" style="vertical-align:top; margin:4px">
+  <img src="https://raw.githubusercontent.com/HelloWarden666/HelloWarden666/tree/main/svg/npm.svg" alt="npm" style="vertical-align:top; margin:4px">
+  <img src="https://raw.githubusercontent.com/HelloWarden666/HelloWarden666/tree/main/svg/visualstudio_code.svg" alt="vscode" style="vertical-align:top; margin:4px">
 </p>
 
 ### - What i do
