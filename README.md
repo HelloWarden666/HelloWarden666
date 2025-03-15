@@ -25,9 +25,9 @@
 <p align="center">
   <!-- For more icons please follow  https://github.com/MikeCodesDotNET/ColoredBadges -->
   <img src="svg/visualstudio_code.svg" alt="vscode" style="vertical-align:top; margin:4px">
-  <img src="svg/cpp.svg" alt="vscode" style="vertical-align:top; margin:4px">
-  <img src="svg/java.svg" alt="vscode" style="vertical-align:top; margin:4px">
-  <img src="nodejs.svg" alt="vscode" style="vertical-align:top; margin:4px">
+  <img src="svg/cpp.svg" alt="c++" style="vertical-align:top; margin:4px">
+  <img src="svg/java.svg" alt="java" style="vertical-align:top; margin:4px">
+  <img src="nodejs.svg" alt="node.js" style="vertical-align:top; margin:4px">
 </p>
 
 ### - What i do
