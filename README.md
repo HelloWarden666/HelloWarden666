@@ -13,5 +13,5 @@ Hi, I'm JunKyun_Ng
 
 </div>
 
-![头像](image/like.jpg)
+![like photo](image/like.jpg)
 
