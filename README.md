@@ -25,7 +25,6 @@
 <p align="center">
   <!-- For more icons please follow  https://github.com/MikeCodesDotNET/ColoredBadges -->
   <img src="svg/visualstudio_code.svg" alt="vscode" style="vertical-align:top; margin:4px">
-  <img src="svg/linux.svg" alt="linux" style="vertical-align:top; margin:4px">
 </p>
 
 ### - What i do
