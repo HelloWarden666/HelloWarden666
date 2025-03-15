@@ -13,7 +13,7 @@
 ![](https://img.shields.io/badge/I_liek-Anime_Comics_Games-white)
 
   <h2>
-    <font color="Chartreuse">
+    <font color="Lime">
       Hello, World!
     </font>
   </h2>
