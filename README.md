@@ -8,7 +8,8 @@ Hi, I'm JunKyun_Ng
 [![youtube](https://img.shields.io/badge/YouTube-Hello_Warden-red)](https://www.youtube.com/@WardenHello)
 
 [![modern cpp](https://img.shields.io/badge/code-Modern%20C++-yellow)](https://learn.microsoft.com/zh-cn/cpp/cpp/welcome-back-to-cpp-modern-cpp) 
-[![open jdk](https://img.shields.io/badge/open-jdk-green)](https://learn.microsoft.com/zh-cn/java/openjdk/download)
+[![open jdk](https://img.shields.io/badge/Open-JDK-green)](https://learn.microsoft.com/zh-cn/java/openjdk/download)
+[![NodeJS on Windows](https://img.shields.io/badge/Get-NodeJS-violet)](https://learn.microsoft.com/en-us/windows/dev-environment/javascript/nodejs-overview)
 ![](https://img.shields.io/badge/爱好-二次元-white)
 
 </div>
