@@ -18,10 +18,12 @@
     </font>
   </h2>
 
-<br />
+<p>
+  <img src="image/hello_world.png" width="200px" height="30px" />
+</p>
 
 <p align="center">
-   <img src="gif/hello_world.gif" />
+  <img src="gif/hello_world.gif" />
 </p>
    
 </div>
