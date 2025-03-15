@@ -2,8 +2,6 @@
 
 ![Modern C++ template][github-sub-title:img]
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Mq-b&show_icons=true&theme=tokyonight)](https://b23.tv/iEJTnPp)
-
 [![bilibili](https://img.shields.io/badge/bilibili-Hello_Warden-blue)](https://space.bilibili.com/399899688?spm_id_from=333.1007.0.0)
 [![youtube](https://img.shields.io/badge/video-YouTube-red)](https://www.youtube.com/@WardenHello)
 
