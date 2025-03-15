@@ -12,47 +12,15 @@
 [![NodeJS on Windows](https://img.shields.io/badge/Get-NodeJS-violet)](https://learn.microsoft.com/en-us/windows/dev-environment/javascript/nodejs-overview)
 ![](https://img.shields.io/badge/I_liek-Anime_Comics_Games-white)
 
-### - Languages and Tools...
-<p align="center">
-  <!-- For more icons please follow  https://github.com/MikeCodesDotNET/ColoredBadges -->
-  <img src="svg/html.svg" alt="html" style="vertical-align:top; margin:4px">
-  <img src="svg/js.svg" alt="js" style="vertical-align:top; margin:4px">
-  <img src="svg/bash.svg" alt="bash" style="vertical-align:top; margin:4px">
-  <img src="svg/vue.svg" alt="vue" style="vertical-align:top; margin:4px">
-  <img src="svg/chrome.svg" alt="chrome" style="vertical-align:top; margin:4px">
-  <img src="svg/npm.svg" alt="npm" style="vertical-align:top; margin:4px">
-</p>
-<p align="center">
-  <!-- For more icons please follow  https://github.com/MikeCodesDotNET/ColoredBadges -->
-  <img src="svg/visualstudio_code.svg" alt="vscode" style="vertical-align:top; margin:4px">
-</p>
-
 ### - What i do
 
 
 <br />
 
 <p align="center">
-   <img src="https://media.giphy.com/media/f9XgHHnPnDjOF1hWpl/giphy.gif" />
-   </p>
-   
-   
-<br />
-
-<h2 align="center">🤝 Support</h2>
-
-<p align="center">🎀 Contributions (<a href="https://guides.github.com/introduction/flow" title="GitHub flow">GitHub Flow</a>), 🔥 issues, and 🥮 feature requests are most welcome!</p>
-
-<p align="center">💙 If you like my projects, Give them ⭐ and Share it with friends!</p>
+   <img src="" />
 </p>
-<p align="center">Made with ❤️ in India</p>
-
-<h1 align='center'>⚡️<i>Stay awesome!</i>⚡️</h1>
-
-<p align="center">
-        <img src="https://raw.githubusercontent.com/mayhemantt/mayhemantt/Update/svg/Bottom.svg" alt="Github Stats" />
-</p>
-
+   
 </div>
 
 ![like photo](image/like.jpg)
