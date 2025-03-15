@@ -21,6 +21,9 @@
   <img src="svg/vue.svg" alt="vue" style="vertical-align:top; margin:4px">
   <img src="svg/chrome.svg" alt="chrome" style="vertical-align:top; margin:4px">
   <img src="svg/npm.svg" alt="npm" style="vertical-align:top; margin:4px">
+</p>
+<p align="center">
+  <!-- For more icons please follow  https://github.com/MikeCodesDotNET/ColoredBadges -->
   <img src="svg/visualstudio_code.svg" alt="vscode" style="vertical-align:top; margin:4px">
 </p>
 
