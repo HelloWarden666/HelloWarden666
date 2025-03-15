@@ -4,7 +4,7 @@
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Mq-b&show_icons=true&theme=tokyonight)](https://b23.tv/iEJTnPp)
 
-[![bilibili](https://img.shields.io/badge/%E7%9F%A5%E4%B9%8E-mq%E7%99%BD-yello)](https://space.bilibili.com/399899688?spm_id_from=333.1007.0.0)
+[![bilibili](https://img.shields.io/badge/bilibili-Hello_Warden-blue)](https://space.bilibili.com/399899688?spm_id_from=333.1007.0.0)
 [![youtube](https://img.shields.io/badge/video-YouTube-red)](https://www.youtube.com/@WardenHello)
 
 [![modern cpp](https://img.shields.io/badge/code-Modern%20C++-blue)](https://learn.microsoft.com/zh-cn/cpp/cpp/welcome-back-to-cpp-modern-cpp) 
