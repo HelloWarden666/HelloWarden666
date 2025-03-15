@@ -19,7 +19,7 @@
   </h2>
 
 <p>
-  <img src="image/hello_world.png" width="200px" height="60px" />
+  <img src="image/hello_world.png" width="200px" height="65px" />
 </p>
 
 <p align="center">
