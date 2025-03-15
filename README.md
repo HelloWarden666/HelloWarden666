@@ -18,7 +18,7 @@
 <br />
 
 <p align="center">
-   <img src="" />
+   <img src="gif/hello_world.gif" />
 </p>
    
 </div>
