@@ -10,7 +10,7 @@ Hi, I'm JunKyun_Ng
 [![modern cpp](https://img.shields.io/badge/code-Modern%20C++-yellow)](https://learn.microsoft.com/zh-cn/cpp/cpp/welcome-back-to-cpp-modern-cpp) 
 [![open jdk](https://img.shields.io/badge/Open-JDK-green)](https://learn.microsoft.com/zh-cn/java/openjdk/download)
 [![NodeJS on Windows](https://img.shields.io/badge/Get-NodeJS-violet)](https://learn.microsoft.com/en-us/windows/dev-environment/javascript/nodejs-overview)
-![](https://img.shields.io/badge/爱好-二次元-white)
+![](https://img.shields.io/badge/I_liek-Anime_Comics_Games-white)
 
 </div>
 
