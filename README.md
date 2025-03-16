@@ -8,7 +8,7 @@
 
 [![bilibili](https://img.shields.io/badge/BiliBili-Hello_Warden-blue)](https://space.bilibili.com/399899688?spm_id_from=333.1007.0.0)
 [![youtube](https://img.shields.io/badge/YouTube-Hello_Warden-red)](https://www.youtube.com/@WardenHello)
-[![forge mdk](https://img.shields.io/badge/Forge-MDK1.20.1-pale_turquoise)](https://files.minecraftforge.net/net/minecraftforge/forge/index_1.20.1.html)
+[![forge mdk](https://img.shields.io/badge/Forge-MDK1.20.1-paleturquoise)](https://files.minecraftforge.net/net/minecraftforge/forge/index_1.20.1.html)
 
 [![modern cpp](https://img.shields.io/badge/Modern-C++-yellow)](https://learn.microsoft.com/zh-cn/cpp/cpp/welcome-back-to-cpp-modern-cpp) 
 [![open jdk](https://img.shields.io/badge/Open-JDK-green)](https://learn.microsoft.com/zh-cn/java/openjdk/download)
