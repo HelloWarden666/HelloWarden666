@@ -22,14 +22,14 @@
   </h2>
 
 <p>
-  <img src="image/hello_world.png" width="200px" height="65px" />
+  <img src="image/static images/hello_world.png" width="200px" height="65px" />
 </p>
 
 <p align="center">
-  <img src="gif/hello_world.gif" />
+  <img src="image/dynamic images/hello_world.gif" />
 </p>
 
 </div>
 
-![like photo](image/like.jpg)
+![like photo](image/static images/like.jpg)
 
