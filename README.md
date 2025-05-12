@@ -31,5 +31,5 @@
 
 </div>
 
-![like photo](image/static images/like.jpg)
+![like photo](image/like.jpg)
 
